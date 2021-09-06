@@ -1,0 +1,29 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.rightNav {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  display: inline-flex;
+}
+
+.link {
+  margin: 0 10px;
+  list-style: none;
+}
+
+.contact {
+  background-color: #22a6b3;
+  border-radius: 50px;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 0;
+  color: #fff;
+}
